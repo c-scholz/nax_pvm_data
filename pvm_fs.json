@@ -1,0 +1,23 @@
+{
+  "structure": {
+    "medals": [
+      {
+        "name": "Player",
+        "icon": "\uF111",
+        "colour": "c63"
+      },
+      {
+        "name": "Intermediate",
+        "icon": "\uF111",
+        "colour": "488"
+      },
+      {
+        "name": "Alien",
+        "icon": "\uF111",
+        "colour": "EC3"
+      }
+    ],
+    "id": 2
+  },
+  "maps": []
+}
